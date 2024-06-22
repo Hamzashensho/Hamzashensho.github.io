@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sports-assistant-rhrt",
+  "private_key_id": "f3473b5ef87010b36373026f03e6643d904e69ab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDK+KuArJfGHQs5\nBBBbx5yLWBnkctpmJrfpuSH89ltcsn2BcoY3ZC+MMJbFMkHf9wuIjW6VT8yDjEDe\nAfMHzVoYOXjT7inK81QjgdALUr87Wp/7gEWFJfqgGmeQX4XgPZmVifi5G1XBmCRP\neaBwUFBmka84NP4kxW3mX9pE0IB6+ZFZl+naNcUM+b8h/YXmOHeq48/9X0erxNER\n++hWPntzDY1QFyA6/OggTyqjnMReOef9eFlT506kijZ9kgOIsMQwHze8yIVs0VyF\nUjgP6n/vgGKQfskpg+yDhuPVQp78mIBKPafZuE4u+KSozBVYBwg9JE7rW7FmNqFR\nOrQgQ6otAgMBAAECggEAEMGN/wBrQzAF9iivZQmfPc2seDSXHRRt3b3/3/ntOZjZ\nTZoebxeL6VSK4zAD9Nut4xGx+GJEbZ5i2IZsAXqNc9nYGhQw9Q/jeU7v1Y945Asr\nkUAEp+T7whiL8NpB8MIvxK2a5UUsGOBY1wrLw5njGU9GRNXzHnwCAkvAIYAzqx3Q\n4PjSA3fGX35NYn966IHmKKFTe65+a0byc5y2FF6/3+1NMqGXU9lks3IPiadj7hkM\nURRahm9uzvCJcbIS0Nb1JkGcoofjyi7hkCIwHBV6UkEqW2c8DnNtOmMAE0cAoURw\n7PgF7m3aXinPBQsQyPffnGvmvtYhhRULqrW23q1TYQKBgQD0wdk6yI8ssqdz4OcD\nchFzwE9EAejuzG8Vz2xfJVFUm3Q563KhVvCPAp5nLlThkVnc7OQUqyi99LW+xoXd\n6GynJv9gaefp+pGEm+kMoqVTK9YPcP0abUuIGd+1DNJrLqHSQ+THTghfjiHfz/Hs\ndr3X8QnWIgvzNdy+E/YEEarPGQKBgQDUS3Poe3IMpRz9SRdDYYTIFTCXq08BnXvp\nyxf7FDaPZW5G+8hZGGjftWJEAABg2Fe4MO2O3KszeIQW9PHow8/PIE4fRSmF6eXT\nw1EW8QkgWTH0BVQAAkoam3N9qa28BFvdmy1JiUCzJnQStMLbO0BcPZ2weZajZb6/\nXnNw3thaNQKBgQCcwgLVKVq5r/qbtvF+PXJ8BjE+R1LejsSe3Wh1T7tVSvMXnXqf\nZsVPcsftIblvdt5tJrO1oSHI94/njdJzG8drDwkEwQ+txbOpkQmj9A+awzqoTR9t\n644yrw+eL4Yc65LszlsaYxntyWRcqhwx7KMOSOyZ3th0fozQmIw6cu5JEQKBgQCS\nFiH6twfyX6SlPyi8+1xN+xbnJ8FEUUS1y0YDRxOMdbX/Lr/dX4i7eKvYM1APVJB4\ndWLjzkIZNzNeQMw+6pAT7h0UM5mxRxUaNeuVJ+Sp1/ch/pChOPIZgSNmM98T5MP6\nqQ/u7H4TScDSJoV4KzvMvbHHgMQCSL+MHMi/wPmMiQKBgQDF88AFOqlQ7+EgKsKf\nxuXkgggkeMscM+0setD1bU5vWgReuBgJKafNw/wIyXvrbHIxqVJSlRbbLv0oTIu4\n5hRadhGXx1CokzfPd40H3si0C6SzR7yV7eeOqhnKRMtCtHfTUVjtR5012pl3rDNN\nODLEzdAfu3HUcG8lYyIYF3H57w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-chatbot@sports-assistant-rhrt.iam.gserviceaccount.com",
+  "client_id": "105413510165911877478",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-chatbot%40sports-assistant-rhrt.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
